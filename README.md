@@ -1,4 +1,4 @@
-# AudioSpectrogram
+# Spectrogram - An Audio Visualisation Plugin for a DAW
 
 A real-time spectrogram plugin built with JUCE that visualizes the frequency content of audio directly inside your DAW. 
 Designed for both detailed analysis and creative sound exploration.
