@@ -17,7 +17,7 @@ Supports common plugin formats (VST3 / AU).
 
 ## Example Output
 
-![Spectrogram Plugin Screenshot](ScreenShots/V9.png)
+![Spectrogram Plugin Screenshot](ScreenShots/V11.png)
 
 ## How It Works
 
@@ -36,14 +36,6 @@ Build using JUCE with CMake or Projucer.
 Export to your preferred plugin format (VST3 / AU).
 
 Copy the compiled plugin into your DAW’s plugin folder.
-
-## Project Structure
-.
-├── Source/             # Core JUCE source files
-├── Resources/          # UI assets (if any)
-├── CMakeLists.txt      # CMake build script (if using CMake)
-├── Plugin.jucer        # Projucer project file (if using Projucer)
-└── README.md           # Project documentation
 
 ## Applications
 
