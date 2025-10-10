@@ -9,7 +9,7 @@ Real-time spectrogram display of incoming audio.
 
 Intuitive visualization of frequency vs. time.
 
-Customizable color mapping for clear readability.
+Customisable color mapping for clear readability.
 
 Lightweight and efficient for seamless use in DAWs.
 
